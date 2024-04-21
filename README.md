@@ -14,12 +14,9 @@ OpenGL3D showcases the following features:
 - Sample objects with textures to demonstrate the graphics capabilities.
 
 <!-- BUILT WITH: Technologies and tools used in the project -->
-### Built With
-- C++
-- OpenGL
-- GLEW
-- GLFW
-- GLM for mathematics
+### Built With 	
+<img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/> 
+C++ | OpenGL | GLEW | GLFW | GLM for mathematics
 
 <!-- PROJECT STRUCTURE: Overview of the project's structure and main components -->
 ## Project Structure
